@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Condicionais Aula 18102018", "Condicionais Aula 18102018\Condicionais Aula 18102018.vcxproj", "{61869127-52D9-492A-85CC-AE59DE39DCDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61869127-52D9-492A-85CC-AE59DE39DCDB}.Debug|x64.ActiveCfg = Debug|x64
+		{61869127-52D9-492A-85CC-AE59DE39DCDB}.Debug|x64.Build.0 = Debug|x64
+		{61869127-52D9-492A-85CC-AE59DE39DCDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{61869127-52D9-492A-85CC-AE59DE39DCDB}.Debug|x86.Build.0 = Debug|Win32
+		{61869127-52D9-492A-85CC-AE59DE39DCDB}.Release|x64.ActiveCfg = Release|x64
+		{61869127-52D9-492A-85CC-AE59DE39DCDB}.Release|x64.Build.0 = Release|x64
+		{61869127-52D9-492A-85CC-AE59DE39DCDB}.Release|x86.ActiveCfg = Release|Win32
+		{61869127-52D9-492A-85CC-AE59DE39DCDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A5C2BD-89B3-46FA-AA8B-B160EFF7BE9D}
+	EndGlobalSection
+EndGlobal
